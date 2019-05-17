@@ -1,0 +1,11 @@
+C:\Users\noah\source\repos\DevOperation2\DevOperation2\bin\Debug\netcoreapp2.0\DevOperation2.deps.json
+C:\Users\noah\source\repos\DevOperation2\DevOperation2\bin\Debug\netcoreapp2.0\DevOperation2.runtimeconfig.json
+C:\Users\noah\source\repos\DevOperation2\DevOperation2\bin\Debug\netcoreapp2.0\DevOperation2.runtimeconfig.dev.json
+C:\Users\noah\source\repos\DevOperation2\DevOperation2\bin\Debug\netcoreapp2.0\DevOperation2.dll
+C:\Users\noah\source\repos\DevOperation2\DevOperation2\bin\Debug\netcoreapp2.0\DevOperation2.pdb
+C:\Users\noah\source\repos\DevOperation2\DevOperation2\obj\Debug\netcoreapp2.0\DevOperation2.csprojAssemblyReference.cache
+C:\Users\noah\source\repos\DevOperation2\DevOperation2\obj\Debug\netcoreapp2.0\DevOperation2.csproj.CoreCompileInputs.cache
+C:\Users\noah\source\repos\DevOperation2\DevOperation2\obj\Debug\netcoreapp2.0\DevOperation2.AssemblyInfoInputs.cache
+C:\Users\noah\source\repos\DevOperation2\DevOperation2\obj\Debug\netcoreapp2.0\DevOperation2.AssemblyInfo.cs
+C:\Users\noah\source\repos\DevOperation2\DevOperation2\obj\Debug\netcoreapp2.0\DevOperation2.dll
+C:\Users\noah\source\repos\DevOperation2\DevOperation2\obj\Debug\netcoreapp2.0\DevOperation2.pdb
