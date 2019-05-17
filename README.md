@@ -1,2 +1,3 @@
-# az-devops-accelerator
-POC for Azure DevOps
+# Azure Devops Accelerator
+
+### POC for Azure DevOps
